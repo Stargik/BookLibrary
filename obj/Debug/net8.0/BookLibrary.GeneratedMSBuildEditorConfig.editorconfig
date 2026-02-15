@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BookLibrary
 build_property.RootNamespace = BookLibrary
-build_property.ProjectDir = /Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/
+build_property.ProjectDir = /Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary
+build_property.MSBuildProjectDirectory = /Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/Views/Books/Create.cshtml]
+[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/Views/Books/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va3MvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/Views/Books/Delete.cshtml]
+[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/Views/Books/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va3MvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/Views/Books/Details.cshtml]
+[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/Views/Books/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va3MvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/Views/Books/Edit.cshtml]
+[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/Views/Books/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va3MvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/Views/Books/Index.cshtml]
+[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/Views/Books/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va3MvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/Views/Home/Index.cshtml]
+[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/Views/Home/Privacy.cshtml]
+[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/Views/Shared/Error.cshtml]
+[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/Views/_ViewImports.cshtml]
+[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/Views/_ViewStart.cshtml]
+[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/Views/Shared/_Layout.cshtml]
+[/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8rvtzo9r6y

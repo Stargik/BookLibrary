@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/BookLibrary.csproj": {}
+    "/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary.csproj": {}
   },
   "projects": {
-    "/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/BookLibrary.csproj": {
+    "/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/BookLibrary.csproj",
+        "projectUniqueName": "/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary.csproj",
         "projectName": "BookLibrary",
-        "projectPath": "/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/BookLibrary.csproj",
+        "projectPath": "/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary.csproj",
         "packagesPath": "/Users/aleksandrstarzhynskyi/.nuget/packages/",
-        "outputPath": "/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/BookLibrary/obj/",
+        "outputPath": "/Users/aleksandrstarzhynskyi/Repositories/Git/GitHub/BookLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aleksandrstarzhynskyi/.nuget/NuGet/NuGet.Config"
@@ -45,10 +45,6 @@
               "target": "Package",
               "version": "[8.0.11, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.11, )"
-            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -58,6 +54,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
